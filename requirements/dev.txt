@@ -38,7 +38,7 @@ iniconfig==1.1.1
     # via pytest
 jinja2==3.0.1
     # via sphinx
-markupsafe==2.0.1
+markupsafe==2.1.2
     # via jinja2
 mypy==0.910
     # via -r requirements/typing.in

@@ -1,0 +1,5 @@
+python-jinja2 (100:2.12.3-1) UNRELEASED; urgency=medium
+
+  * https://github.com/pallets/jinja/releases/tag/2.12.3
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Thu, 11 Jan 2024 11:08:48 +0800

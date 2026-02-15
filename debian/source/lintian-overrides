@@ -1,0 +1,4 @@
+python-jinja2 source: file-without-copyright-information
+python-jinja2 source: no-debian-changes
+python-jinja2 source: source-contains-prebuilt-windows-binary
+python-jinja2 source: source-package-encodes-python-version
